@@ -22,12 +22,6 @@ The below script has the hyper-parameters and settings to reproduce CMM CLEVR re
 sh scripts/train/cmm.sh
 ```
 
-For NLVR preprocessing and reproducing, run
-```bash
-python nlvr_dump_data.py
-sh scripts/train/cmm.sh
-```
-
 ## Running models
 
 The following scripts run trained models on CLEVR:

@@ -1,6 +1,6 @@
 # Cascaded Mutual Modulation for Visual Reasoning
 
-Source code for Yiqun Yao; Jiaming Xu and Bo Xu. Cascaded Mutual Modulation for Visual Reasoning. 2018. EMNLP.
+Source code for Yiqun Yao; Jiaming Xu and Bo Xu. Cascaded Mutual Modulation for Visual Reasoning. 2018. EMNLP. [arxiv](https://arxiv.org/abs/1809.01943)
 
 ## Code Outline
 
